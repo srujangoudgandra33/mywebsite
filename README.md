@@ -1,2 +1,2 @@
-# mywebsute
+# mywebsite
 my portfolio webpage assignment
